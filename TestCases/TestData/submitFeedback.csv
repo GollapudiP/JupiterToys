@@ -1,0 +1,6 @@
+*** Test Cases ***;${forename};${email};${message}
+Feedback from User1;Minnie;minnie@disney.com;Hello from Minnie
+Feedback from User2;Maxie;maxie@disney.com;Hello from Maxie
+Feedback from User3;Ironman;ironman@marvel.com;Hello from Ironman
+Feedback from User4;Spiderman;spiderman@marvel.com;Hello from Spiderman
+Feedback from User5;Hulk;hulk@marvel.com;Hello from Hulk
