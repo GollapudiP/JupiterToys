@@ -2,3 +2,4 @@ requests==2.32.5
 robotframework==7.3.2
 robotframework-seleniumlibrary==6.3.0
 selenium==4.36.0
+robotframework-datadriver==1.11.2
